@@ -12,10 +12,10 @@
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 Este é um sistema de gerenciamento de agenda telefônica desenvolvido em linguagem C com interface em modo texto (Console). O objetivo principal do projeto é a aplicação prática dos conceitos de algoritmos estruturados, incluindo o uso de ponteiros (passagem por referência), manipulação de strings, modularização e recursividade.
 
-## 📂 Organização do Repositório
+##  Organização do Repositório
 Para manter a clareza e as boas práticas, o código foi modularizado e dividido da seguinte forma:
 
 ```text
