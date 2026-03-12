@@ -5,10 +5,10 @@
 **Professor:** Renato Luan de Sousa Araújo  
 
 ## Membros 
-**Edmundo Gabriel Brandão Silva**
-**Eduarda Cambui Morais**
-**Eduardo Setti Coelho da Penha**
-**Rafael Fernandes de Oliveira Teles**
+**Edmundo Gabriel Brandão Silva**\n
+**Eduarda Cambui Morais**\n
+**Eduardo Setti Coelho da Penha**\n
+**Rafael Fernandes de Oliveira Teles**\n
 
 ---
 
