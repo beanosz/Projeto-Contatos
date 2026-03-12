@@ -1,8 +1,8 @@
 # Projeto-Contatos
 
-**Universidade Evangélica de Goiás (UniEVANGÉLICA)** **Curso:** Engenharia de Software - 3º Período  
-**Disciplina:** Laboratório de Programação (Ciclo 1)  
-**Professor:** Renato Luan de Sousa Araújo  
+**Universidade Evangélica de Goiás (UniEVANGÉLICA)** **Curso:** Engenharia de Software
+**Disciplina:** Laboratório de Programação 
+**Professor:** Renato Luan
 
 ## Membros 
 * Edmundo Gabriel Brandão Silva
