@@ -4,6 +4,11 @@
 **Disciplina:** Laboratório de Programação (Ciclo 1)  
 **Professor:** Renato Luan de Sousa Araújo  
 
+## Membros 
+Edmundo Gabriel Brandão Silva
+Eduarda Cambui Morais
+Eduardo Setti Coelho da Penha
+Rafael Fernandes de Oliveira Teles
 ---
 
 ## 📌 Sobre o Projeto
