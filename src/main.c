@@ -2,12 +2,12 @@
 #include "contatos.h"
 
 int main() {
-    Contato agenda[100]; // Array de 100 registros exigido
+    Contato agenda[100];
     int qtd = 0;
     int opcao;
 
     do {
-        // Menu com as 7 opcoes obrigatorias
+    
         printf("\n--- MENU DE CONTATOS ---\n");
         printf("1) Cadastrar\n");
         printf("2) Listar\n");
@@ -36,7 +36,6 @@ int main() {
                 excluir(agenda, &qtd);
                 break;
             case 6:
-                // Passa o indice 0 para iniciar a recursao
                 printf("\nContatos com @gmail.com: %d\n", contarGmail(agenda, qtd, 0));
                 break;
             case 7:
@@ -45,7 +44,8 @@ int main() {
             default:
                 printf("Opcao invalida, tente novamente.\n");
         }
-    } while (opcao != 7); // [cite: 26]
+    } while (opcao != 7);
 
     return 0;
+
 }
