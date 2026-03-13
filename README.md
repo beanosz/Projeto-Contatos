@@ -1,9 +1,5 @@
 # Projeto-Gerenciador de Contatos
 
-**Universidade Evangélica de Goiás (UniEVANGÉLICA)** **Curso:** Engenharia de Software
-**Disciplina:** Laboratório de Programação 
-**Professor:** Renato Luan
-
 ## Membros 
 * Edmundo Gabriel Brandão Silva
 * Eduarda Cambui Morais
