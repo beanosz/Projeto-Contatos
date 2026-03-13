@@ -1,4 +1,4 @@
-# Projeto-Contatos
+# Projeto-Gerenciador de Contatos
 
 **Universidade Evangélica de Goiás (UniEVANGÉLICA)** **Curso:** Engenharia de Software
 **Disciplina:** Laboratório de Programação 
